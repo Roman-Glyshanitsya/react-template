@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+      Laugh and the world laughs with you. Weep and you weep alone.
     </div>
   );
 };
